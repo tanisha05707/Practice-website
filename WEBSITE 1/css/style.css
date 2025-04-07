@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+}
+.header{
+    height: 100px;
+    width: 1200px;
+    border: solid 1px black;
+    margin: auto;
+}
+.logo{
+    height: 85px;
+    width: 150px;
+    border: solid 1px black;
+    float: left;
+    text-align: center;
+    padding-top: 15px;
+    float: left;
+}
+.logo_text{
+    height: 77px;
+    width: 245px;
+    border: solid 1px black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    padding-top: 23px;
+    color: #FFBD7B;
+}
+.menu{
+    height: 100px;
+    width: 795px;
+    border: solid 1px black;
+    float: left;
+}
+.outer_ul{
+    list-style: none;
+}
+.menu_item{
+    border: solid 2px black;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: #FFBD7B;
+}
+
+/* center section  */
+
+.center_section{
+    background-color: #FFBD7B;
+    height: 300px;
+    width: 1200px;
+    margin: auto;
+}
+
+.product_section{
+    height: auto;
+    width: 1200px;
+    margin: auto;
+    border: solid 1px wheat;
+    margin-top: 10px;
+    background-color: #FFBD7B;
+    
+}
+.product_item{
+    height: 270px;
+    width: 200px;
+    border: solid 10px wheat;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: black;
+}
+button{
+    background-color: #FFBD7B;
+    padding: 10px;
+    border-radius: 10px;
+}
